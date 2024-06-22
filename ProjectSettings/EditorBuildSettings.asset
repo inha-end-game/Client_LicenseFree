@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: ecc78bb215eb8ed46bde4b723199c0ab
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 90020c16f1075114990529d341dd0a7d
+  - enabled: 0
+    path: Assets/GameOver.unity
+    guid: 604759bec36a6fa4b861fd51cb0b341e
+  - enabled: 1
+    path: Assets/Scenes/GameOver_Spy.unity
+    guid: 248d89fe0d6457443a0c43e77556c381
+  - enabled: 1
+    path: Assets/Scenes/GameOver_Assassin.unity
+    guid: 072cdc865962616459a4a15f88a5ab46
+  - enabled: 1
+    path: Assets/Scenes/GameOver_Boomer.unity
+    guid: f2f7bcc4bd7a8214492ea09e1bb602d8
+  - enabled: 1
+    path: Assets/Scenes/GameOver_NormalCop1.unity
+    guid: c2c70ce9bee0def41921989b0107ce0f
+  - enabled: 1
+    path: Assets/Scenes/GameOver_NormalCop.unity
+    guid: db58b39a902fb3147bcb25b9affd7d9d
+  - enabled: 1
+    path: Assets/Scenes/GameOver_BadCop.unity
+    guid: bd0744f5ed7ac1e459910cf89a72c21f
+  - enabled: 1
+    path: Assets/Scenes/GameOver_TrueCop.unity
+    guid: 1c2db125fb2cee94b80e313f6cd81b24
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
+      type: 2}

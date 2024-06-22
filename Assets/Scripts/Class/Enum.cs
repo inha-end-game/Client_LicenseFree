@@ -1,0 +1,49 @@
+//enum 생성
+public enum requestType
+{
+	TEST, ADD_USER, START_ROOM, UPDATE_USER, CHECK_USER, SETTING_ROOM, PING,
+	NETWORK_DELAY, AIM, STUN, SHOT, PLAY_MISSION, USE_ITEM, ASSASSIN_KILL, CREATE_ROOM, ROOM_LIST,
+	REPORT_USER, CHAT, RECONNECT, GAME_OVER_CONFIRM, LEAVE_ROOM
+}
+public enum responseType
+{
+	TEST, ADD_USER, ERROR, START_ROOM, PLAY_ROOM_INFO, CHECK_USER, SETTING_ROOM,
+	EVENT_INFO, PING, AIM, STUN, SHOT, SELECT_JOB, PLAY_MISSION, USE_ITEM, ASSASSIN_KILL, CREATE_ROOM, ROOM_LIST,
+	REPORT_USER, CHAT, RECONNECT, GAME_OVER, LEAVE_ROOM
+}
+public enum roomState
+{
+	NONE, READY, PLAY, END
+}
+public enum roomUserType
+{
+	COP, USER, NPC
+}
+public enum aimState
+{
+	START, PROCESS, END
+}
+public enum userState
+{
+	NORMAL, STUN, DIE
+}
+public enum stunState
+{
+	START, END
+}
+public enum crimeType
+{
+	NONE, SPY, BOOMER, ASSASSIN
+}
+public enum missionState
+{
+	START, CLEAR, FAIL
+}
+public enum overType
+{
+	TRUE, NORMAL, BAD
+}
+public enum job
+{
+	COP, SPY, BOOMER, ASSASSIN
+}

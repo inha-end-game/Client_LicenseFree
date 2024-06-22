@@ -1,0 +1,6 @@
+[ {
+  "id" : "boomer_minigame",
+  "timeToSetBomb" : 5,
+  "timeToExplosion" : 15,
+  "reducedTimePerMissionClear" : 5
+} ]

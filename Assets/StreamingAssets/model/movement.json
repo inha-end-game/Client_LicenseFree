@@ -1,0 +1,19 @@
+[ {
+  "id" : "stat_user_cop",
+  "moveSpeed" : 15000,
+  "runSpeed" : 5,
+  "rotateSpeed" : 1,
+  "FOV" : 60
+}, {
+  "id" : "stat_user_criminal",
+  "moveSpeed" : 15000,
+  "runSpeed" : 4,
+  "rotateSpeed" : 1,
+  "FOV" : 60
+}, {
+  "id" : "stat_npc",
+  "moveSpeed" : 10000,
+  "runSpeed" : 4,
+  "rotateSpeed" : 1,
+  "FOV" : 60
+} ]

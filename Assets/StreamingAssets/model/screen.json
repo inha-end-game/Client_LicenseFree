@@ -1,0 +1,12 @@
+[ {
+  "id" : "screen",
+  "screenXmin" : 47,
+  "screenYmin" : 15,
+  "screenZmin" : 47,
+  "screenXmax" : 53,
+  "screenYmax" : 19,
+  "screenZmax" : 53,
+  "screenMotionCycleMin" : 30,
+  "screenMotionCycleMax" : 60,
+  "description" : "over the police station"
+} ]

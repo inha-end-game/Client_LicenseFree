@@ -1,0 +1,12 @@
+[ {
+  "id" : "minigame_criminal",
+  "interactionKey" : "e",
+  "barHeight" : 10,
+  "barLength" : 100,
+  "successBarLength" : 15,
+  "movingBarLength" : 5,
+  "firstMovingBarSpeed" : 50,
+  "secondMovingBarSpeed" : 100,
+  "thirdMovingBarSpeed" : 150,
+  "description" : "Criminals must succeed in a total of three mini-games per mission.\nInside a 10*100 (cm) long, black-rimmed white background bar,\nthere is a 15cm-thick green success zone,\nwhich is randomly designated for each attempt.\nWhen all 5cm-thick red moving bars are in the success zone,\npress e to clear the mini-game. \nThe moving bar speeds up with each success,\nand if it fails, the number of successes is not reset."
+} ]

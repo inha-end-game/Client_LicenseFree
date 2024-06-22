@@ -1,0 +1,31 @@
+[ {
+  "id" : "spawn_cop",
+  "posXmin" : 111,
+  "posZmin" : 54,
+  "posXmax" : 111,
+  "posZmax" : 54
+}, {
+  "id" : "spawn_criminal_inner",
+  "posXmin" : 105,
+  "posZmin" : 50,
+  "posXmax" : 120,
+  "posZmax" : 56
+}, {
+  "id" : "spawn_criminal_outer",
+  "posXmin" : 0,
+  "posZmin" : 0,
+  "posXmax" : 140,
+  "posZmax" : 130
+}, {
+  "id" : "spawn_npc_inner",
+  "posXmin" : 105,
+  "posZmin" : 50,
+  "posXmax" : 120,
+  "posZmax" : 56
+}, {
+  "id" : "spawn_npc_outer",
+  "posXmin" : 0,
+  "posZmin" : 0,
+  "posXmax" : 140,
+  "posZmax" : 130
+} ]

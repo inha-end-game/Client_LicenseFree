@@ -1,0 +1,11 @@
+[ {
+  "id" : "map_size",
+  "mapXmin" : 0,
+  "mapYmin" : 0,
+  "mapZmin" : 0,
+  "mapXmax" : 150,
+  "mapYmax" : 30,
+  "mapZmax" : 140,
+  "mapCenterX" : 75,
+  "mapCenterZ" : 70
+} ]

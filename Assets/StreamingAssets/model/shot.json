@@ -1,0 +1,9 @@
+[ {
+  "id" : "shot_rule",
+  "AimRange" : 10,
+  "ReloadTime" : 3,
+  "InspectCoolTime" : 5,
+  "ShotCoolTime" : 10,
+  "MissShotPenalty" : 20,
+  "Description" : "Set a different delay time for when the police shoot "
+} ]

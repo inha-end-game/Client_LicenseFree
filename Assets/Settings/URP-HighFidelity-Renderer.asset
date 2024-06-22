@@ -1,0 +1,429 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8655845467082722431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7480afaef67144a72a4fc83de198c35a, type: 3}
+  m_Name: Glitch_2
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &-8109062947669829570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 774dea15d42308e40b25c97995d35262, type: 3}
+  m_Name: Glitch17
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &-8015220629658422169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86d2f4b113a4f994b80cb7cbdf46ce83, type: 3}
+  m_Name: Glitch19
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &-6702541155832018399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b6f0dbe155ef431087be0d8f78655c4, type: 3}
+  m_Name: Glitch6
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &-5220046058944853651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72cb7e116a93d4ff0b78baa15ccecc05, type: 3}
+  m_Name: Glitch_1
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &-4903683695000397124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed77f9df84125dd46803bb5ed59c23a7, type: 3}
+  m_Name: Glitch11
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &-2931199059909342288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adbf8518e844c7341ac062fa89a4c9d3, type: 3}
+  m_Name: Glitch14
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &-2630757925583393222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fcc6243e52b743b9ae7306d7216ff2e, type: 3}
+  m_Name: Glitch5
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &-1878332245247344467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f62c9c65cf3354c93be831c8bc075510, type: 3}
+  m_Name: SSAO
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  m_Shader: {fileID: 4800000, guid: 0849e84e3d62649e8882e9d6f056a017, type: 3}
+  m_Settings:
+    Downsample: 0
+    AfterOpaque: 0
+    Source: 1
+    NormalSamples: 1
+    Intensity: 0.5
+    DirectLightingStrength: 0.25
+    Radius: 0.25
+    SampleCount: 12
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de640fe3d0db1804a85f9fc8f5cadab6, type: 3}
+  m_Name: URP-HighFidelity-Renderer
+  m_EditorClassIdentifier: 
+  debugShaders:
+    debugReplacementPS: {fileID: 4800000, guid: cf852408f2e174538bcd9b7fda1c5ae7,
+      type: 3}
+  m_RendererFeatures:
+  - {fileID: -1878332245247344467}
+  - {fileID: 1877846612082754462}
+  - {fileID: -5220046058944853651}
+  - {fileID: -8655845467082722431}
+  - {fileID: 1723961814857047947}
+  - {fileID: 7169800305522970374}
+  - {fileID: -2630757925583393222}
+  - {fileID: -6702541155832018399}
+  - {fileID: 6894143276886323561}
+  - {fileID: 1545892943803892423}
+  - {fileID: 7044010244748616104}
+  - {fileID: 1044377197879372935}
+  - {fileID: -4903683695000397124}
+  - {fileID: 8060378315022565738}
+  - {fileID: 5653351552395352395}
+  - {fileID: -2931199059909342288}
+  - {fileID: 5511268734460801680}
+  - {fileID: 4671608469235120607}
+  - {fileID: -8109062947669829570}
+  - {fileID: 8638261292320675371}
+  - {fileID: -8015220629658422169}
+  - {fileID: 5949700227337895488}
+  - {fileID: 8050775489824727522}
+  - {fileID: 2375116392821437232}
+  m_RendererFeatureMap: adc0de57c6d2eee59e03dd5f8b730f1a6d096a31c4ab8eb781f3db876842e0878b5fe4fc22beec17060f2f01643f80633aee8ee39aab7ddb214a329254cafba269f17499c8eaac5fc7c23620711d7415a8217430ff59c161872c1e33875f7e0ebc5aa004a99df2bb6a812e2e5f37dc6f4b99edbe48bd744eb00b2534fc4952d790b240cbb6f57b4cdf3977ca26e3d4403e98db7636d2768f2bd6c7bde044e17767b4d3c44d37c490403e897ad5949152e2a16c35a719ba6f3033547ec61bf620
+  m_UseNativeRenderPass: 0
+  postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
+  xrSystemData: {fileID: 11400000, guid: 60e1133243b97e347b653163a8c01b64, type: 2}
+  shaders:
+    blitPS: {fileID: 4800000, guid: c17132b1f77d20942aa75f8429c0f8bc, type: 3}
+    copyDepthPS: {fileID: 4800000, guid: d6dae50ee9e1bfa4db75f19f99355220, type: 3}
+    screenSpaceShadowPS: {fileID: 0}
+    samplingPS: {fileID: 4800000, guid: 04c410c9937594faa893a11dceb85f7e, type: 3}
+    stencilDeferredPS: {fileID: 4800000, guid: e9155b26e1bc55942a41e518703fe304, type: 3}
+    fallbackErrorPS: {fileID: 4800000, guid: e6e9a19c3678ded42a3bc431ebef7dbd, type: 3}
+    materialErrorPS: {fileID: 4800000, guid: 5fd9a8feb75a4b5894c241777f519d4e, type: 3}
+    coreBlitPS: {fileID: 4800000, guid: 93446b5c5339d4f00b85c159e1159b7c, type: 3}
+    coreBlitColorAndDepthPS: {fileID: 4800000, guid: d104b2fc1ca6445babb8e90b0758136b,
+      type: 3}
+    cameraMotionVector: {fileID: 4800000, guid: c56b7e0d4c7cb484e959caeeedae9bbf,
+      type: 3}
+    objectMotionVector: {fileID: 4800000, guid: 7b3ede40266cd49a395def176e1bc486,
+      type: 3}
+  m_AssetVersion: 2
+  m_OpaqueLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_TransparentLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_DefaultStencilState:
+    overrideStencilState: 0
+    stencilReference: 0
+    stencilCompareFunction: 8
+    passOperation: 2
+    failOperation: 0
+    zFailOperation: 0
+  m_ShadowTransparentReceive: 1
+  m_RenderingMode: 0
+  m_DepthPrimingMode: 1
+  m_CopyDepthMode: 0
+  m_AccurateGbufferNormals: 0
+  m_ClusteredRendering: 0
+  m_TileSize: 32
+  m_IntermediateTextureMode: 0
+--- !u!114 &1044377197879372935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cb5a2d558dd236468ba05904eb55a8a, type: 3}
+  m_Name: Glitch10
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &1545892943803892423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7b06d9efe3584c3da0d75b6f227a2a8, type: 3}
+  m_Name: Glitch8
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &1723961814857047947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 573b22c9621704065a756f4dbb165eef, type: 3}
+  m_Name: Glitch_3
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &1877846612082754462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8e1eeeaa7fba944fb8e39c0af65b268, type: 3}
+  m_Name: TranslucentImageBlurSource
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  renderOrder: 0
+  canvasDisappearWorkaround: 0
+--- !u!114 &2375116392821437232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9255afdf750d134e8c7d50d9b175464, type: 3}
+  m_Name: LimitlessCustomTexture
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &4671608469235120607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2e65c0520bba78448d79fc3264abcc5, type: 3}
+  m_Name: Glitch16
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &5511268734460801680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 795a3d5bf45ce694faf66f1906501260, type: 3}
+  m_Name: Glitch15
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &5653351552395352395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bfb38325b816c845836f99167feaa22, type: 3}
+  m_Name: Glitch13
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &5949700227337895488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f675543667ec4449873191513095fa3, type: 3}
+  m_Name: Glitch20
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &6894143276886323561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff95cf1d0718947139b6da7e010fe7ea, type: 3}
+  m_Name: Glitch7
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &7044010244748616104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9616df0d4cad0cb4dbbd4341986f59a7, type: 3}
+  m_Name: Glitch9
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &7169800305522970374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfd11eaf5a7344b85b6b79e194c79aaf, type: 3}
+  m_Name: Glitch4
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &8050775489824727522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c11dae1f2688bd45bf175953a6068e1, type: 3}
+  m_Name: Glitch21
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &8060378315022565738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4051eb1a21289c4082846c39cf2b4ac, type: 3}
+  m_Name: Glitch12
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550
+--- !u!114 &8638261292320675371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 610caeb0c790c6d4fade7be9f9b31457, type: 3}
+  m_Name: Glitch18
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  Event: 550

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8e50bc71e3330e84791d73fbcacfdd77
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _lobbyCanvas: {instanceID: 0}
+  - _loginCanvas: {instanceID: 0}
+  - _roomPrefab: {fileID: 8695362148590827215, guid: 6a557ba8c22c5304aa8c1098df4abcb3,
+      type: 3}
+  - _roomsContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

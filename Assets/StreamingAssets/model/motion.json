@@ -1,0 +1,64 @@
+[ {
+  "id" : "motion_surprised",
+  "motionNo" : 3,
+  "motionDescription" : "surprising",
+  "motionTime" : 10,
+  "motionTrigger" : "1.0",
+  "screenMotion" : false
+}, {
+  "id" : "motion_fear",
+  "motionNo" : 4,
+  "motionDescription" : "fear",
+  "motionTime" : 10,
+  "motionTrigger" : "2.0",
+  "screenMotion" : false
+}, {
+  "id" : "motion_dance",
+  "motionNo" : 5,
+  "motionDescription" : "dancing",
+  "motionTime" : 10,
+  "motionTrigger" : "3.0",
+  "screenMotion" : true
+}, {
+  "id" : "motion_clap",
+  "motionNo" : 6,
+  "motionDescription" : "clapping",
+  "motionTime" : 10,
+  "motionTrigger" : "4.0",
+  "screenMotion" : true
+}, {
+  "id" : "motion_stop",
+  "motionNo" : 7,
+  "motionDescription" : "all motions are stopped",
+  "motionTime" : 10,
+  "motionTrigger" : "5.0",
+  "screenMotion" : true
+}, {
+  "id" : "motion_interact",
+  "motionNo" : 8,
+  "motionDescription" : "interacting minigames",
+  "motionTime" : 10,
+  "motionTrigger" : "e",
+  "screenMotion" : false
+}, {
+  "id" : "motion_inspect",
+  "motionNo" : 9,
+  "motionDescription" : "inspecting who looks criminal ",
+  "motionTime" : 10,
+  "motionTrigger" : "mouseLeftClick",
+  "screenMotion" : false
+}, {
+  "id" : "motion_shoot",
+  "motionNo" : 10,
+  "motionDescription" : "shoot who looks criminal",
+  "motionTime" : 10,
+  "motionTrigger" : "mouseLeftClick",
+  "screenMotion" : false
+}, {
+  "id" : "motion_report",
+  "motionNo" : 11,
+  "motionDescription" : "report who looks criminal",
+  "motionTime" : 10,
+  "motionTrigger" : "mouseLeftClick",
+  "screenMotion" : false
+} ]

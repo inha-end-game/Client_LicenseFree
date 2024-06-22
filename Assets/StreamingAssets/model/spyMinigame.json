@@ -1,0 +1,10 @@
+[ {
+  "id" : "minigame_spy",
+  "pressTimeLimit" : 5,
+  "firstPressKeysNum" : 10,
+  "secondPressKeysNum" : 10,
+  "thirdPressKeysNum" : 10,
+  "description" : "get 3 letters of the password before each three missions.\nInteract and wait the time for connecting to server.\nThen insert three letters you remembered.",
+  "connectingTime" : 4,
+  "passwordDigits" : 3
+} ]

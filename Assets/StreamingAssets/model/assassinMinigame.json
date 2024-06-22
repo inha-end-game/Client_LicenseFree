@@ -1,0 +1,6 @@
+[ {
+  "id" : "assassin_minigame",
+  "needToKill" : 3,
+  "undetectedDistanceFromNPC" : 5,
+  "timeOfScreamingIfDetected" : 5
+} ]
